@@ -1,6 +1,6 @@
 # Virtual-Board
 
-Here I have created a virtual board on which we can write using the hand geasutres. For creating this I had used the mediapiepe library of the Google. I had also made a flask app for using it by which you can run it as a web app on your PC. By using that it can also run on your phine also. 
+Here I have created a virtual board on which we can write using the hand geasutres. For creating this I had used the mediapipe library of the Google. I had also made a flask app for using it by which you can run it as a web app on your PC. By using that it can also run on your phone also. 
 
 ### Pre-requisites
 These are the required dependencies needed to setup the environment
