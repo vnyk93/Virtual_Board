@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 12:57:24 2021
 
-@author: abhis
-"""
 
 
 import cv2 
